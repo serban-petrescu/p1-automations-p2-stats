@@ -1,0 +1,7 @@
+node_modules
+.vscode
+token.json
+*.csv
+*.xlsx
+.env
+output
